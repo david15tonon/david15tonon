@@ -9,7 +9,7 @@
 *  🌱 I’m currently learning Artificial Intelligence and ComputerScience
 * Interested in Machine Learning and ComputerScience domains.
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developper; I'm AI and ComputerScience student ;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developper; I'm AI and ComputerScience student; 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾;">
 </p>
 
 ## Langages & Tools
