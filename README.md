@@ -3,7 +3,11 @@
 <p align="center">
   <h3 align="center">Welcome to My profile 👾👾👾</h3>
 </p>
+<img src="https://github.com/david15tonon/david15tonon/blob/main/unnamed.jpg" >
 
+* I'm David
+* Interested in Machine Learning and ComputerScience domains.
+* General mails at david15tonon@gmail.com
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developper; I'm AI and ComputerScience student ;">
 </p>
