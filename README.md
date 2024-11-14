@@ -36,7 +36,8 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-##Some stats
+# Some stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
  👯 I’m looking to collaborate on  Data Analysis and Engineering Project
