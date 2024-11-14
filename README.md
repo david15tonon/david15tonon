@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">Welcome to My profile 👾👾👾</h3>
 </p>
-<img align="center" src="https://github.com/david15tonon/david15tonon/blob/main/unnamed.jpg" >
+<img align="center" src="https://github.com/david15tonon/david15tonon/blob/main/profile.jpg" >
 
 * I'm David
 *  🌱 I’m currently learning Artificial Intelligence and ComputerScience
