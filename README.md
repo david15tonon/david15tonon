@@ -40,6 +40,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
- 👯 I’m looking to collaborate on  Data Analysis and Engineering Project
+ 👯 I’m looking to collaborate on  Data Analysis and Data Engineering Project
  
 * General mails at david15tonon@gmail.com
