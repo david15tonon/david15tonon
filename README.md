@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developper; I'm AI and ComputerScience student; 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾;">
 </p>
 
-## Langages & Tools
+# Langages & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
