@@ -39,7 +39,7 @@
 # Some stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)]
-![Daily.dev](<a href="https://app.daily.dev/dash15tonon"><img src="https://api.daily.dev/devcards/v2/I7Oy0mpyXs8dOSJPf3bPC.png?type=default&r=ie4" width="356" alt="David15tonon's Dev Card"/></a>)
+![Daily dev](<a href="https://app.daily.dev/dash15tonon"><img src="https://api.daily.dev/devcards/v2/I7Oy0mpyXs8dOSJPf3bPC.png?type=default&r=ie4" width="356" alt="David15tonon's Dev Card"/></a>)
 
  👯 I’m looking to collaborate on  Data Analysis and Data Engineering Project
  
