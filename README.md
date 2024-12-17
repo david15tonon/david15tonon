@@ -63,6 +63,12 @@
     </a>
 </p>
 
+<!-- START NEW SECTION -->
+<div align="center">
+    <p><b>Visitors Count</b></p>  
+    <p><img src="https://profile-counter.glitch.me/{david15tonon}/count.svg" alt="Visitors Count" /></p> 
+</div>
+
  👯 I’m looking to collaborate on  Data Analysis and Data Engineering Project
  
 * General mails at david15tonon@gmail.com
