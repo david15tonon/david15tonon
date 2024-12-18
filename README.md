@@ -56,7 +56,7 @@
 |       |      |
 |  ---        |       --- |
 | <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
-<h3 align="center">🏆 GitHub Trophies</h3>
+###### <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=david15tonon" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
@@ -65,7 +65,7 @@
 
 <!-- START NEW SECTION -->
 <div>
-    <h2 align="center">💻 GitHub Contributions</h2>
+    ###### <h2 align="center">💻 GitHub Contributions</h2>
     <br>
     <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&bg_color=09131B&color=FF7F00&line=FF7F00&point=FF7F00&hide_border=true&area=true" alt="GitHub Contributions Graph" />
