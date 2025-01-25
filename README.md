@@ -8,6 +8,7 @@
 * I'm David
 *  🌱 I’m currently learning Artificial Intelligence and ComputerScience
 * Interested in Linear Algebra, Machine Learning and ComputerScience domains.
+* 🎓 Student at the Training and Research Institute in Computerscience (IFRI-UAC).
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developper; I'm AI and ComputerScience student; 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾;">
 </p>
@@ -35,7 +36,7 @@
 ![Vs Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- 🎓 Student at IFRI-UAC.*
+ 
 
 ###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img>My Favorite Language:*
 
