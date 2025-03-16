@@ -53,10 +53,11 @@
 <code><img height="50" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" title="mySQL" alt="mySQL"></code>
 <code><img height="50" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" title="Django" alt="Django"></code>
 <code><img height="50" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
-###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img> [![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)](https://git.io/streak-stats)*
+###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img> *
 |       |      |
 |  ---        |       --- |
 | <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)](https://git.io/streak-stats)
 ###### <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=david15tonon" target="_blank">
