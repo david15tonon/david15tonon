@@ -56,7 +56,7 @@
 ###### *Here is my  stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img> *
 |       |      |
 |  ---        |       --- |
-| <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+| <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
 [![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)](https://git.io/streak-stats)
 ###### <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
