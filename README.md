@@ -57,7 +57,9 @@
 |       |      |
 |  ---        |       --- |
 | <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
-[![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)]
+<a href="https://github.com/david15tonon/david15tonon" title="GitHub Streak">
+        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
+    </a>
 ###### <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=david15tonon" target="_blank">
