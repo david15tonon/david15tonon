@@ -71,9 +71,11 @@
 <div>
     ###### <h2 align="center">💻 GitHub Contributions</h2>
     <br>
-    <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&bg_color=09131B&color=FF7F00&line=FF7F00&point=FF7F00&hide_border=true&area=true" alt="GitHub Contributions Graph" />
-    </div>
+    <<a>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
 </div>
 > [!👯 I’m looking to collaborate on  Data Analysis and Data Engineering Project - Mail me to]
 
