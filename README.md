@@ -47,9 +47,7 @@
 <code><img height="50" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"></code>
 <code><img height="50" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"></code>
 <code><img height="50" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"></code>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
-        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
-    </a>
+
 ###### *Here is my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img> *
 
 |       |      |
@@ -72,9 +70,12 @@
 </p>
 
 <p align="center">
+  a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
+        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
+    </a>
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=red&style=for-the-badge">
 </p>
-
+<
 > 👯 I’m looking to collaborate on Data Analysis and Data Engineering Projects - Contact me at:
 > 
 > **david15tonon@gmail.com**
