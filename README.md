@@ -56,7 +56,9 @@
 
 
 ---
-
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
+  </a>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
     <a href="https://github-profile-trophy.vercel.app/?username=david15tonon" target="_blank">
@@ -70,9 +72,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=red&style=for-the-badge">
 </p>
 <
