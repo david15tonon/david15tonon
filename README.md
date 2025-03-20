@@ -76,6 +76,9 @@
       src="https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
   </a>
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=david15tonon2&color=red&style=for-the-badge">
+</p>
 </div>
 > [!👯 I’m looking to collaborate on  Data Analysis and Data Engineering Project - Mail me to]
 
