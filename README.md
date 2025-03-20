@@ -70,9 +70,9 @@
 </p>
 
 <p align="center">
-  a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
         <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
-    </a>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=red&style=for-the-badge">
 </p>
 <
