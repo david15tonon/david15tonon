@@ -78,8 +78,7 @@
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=red&style=for-the-badge">
 </p>
 <h3 align="center">👾 Wakatime </h3>
-<p align="center">
-  <a href="https://wakatime.com/@93e1a882-4d0c-4099-9bf8-0f2e5c52d668"><img src="https://wakatime.com/badge/user/93e1a882-4d0c-4099-9bf8-0f2e5c52d668.svg" alt="Total time coded since March 2025" /></a>
+<p align="center"><a href="https://wakatime.com/@93e1a882-4d0c-4099-9bf8-0f2e5c52d668"><img src="https://wakatime.com/badge/user/93e1a882-4d0c-4099-9bf8-0f2e5c52d668.svg" alt="Total time coded since Mars 2025" /></a>
 </p>
 
  👯 I’m looking to collaborate on Data Analysis and Data Engineering Projects - Contact me at:
