@@ -64,7 +64,7 @@
 ---
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" alt="He's GitHub Streak" />
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)](https://git.io/streak-stats)
     </a>
 </p>
 ---
