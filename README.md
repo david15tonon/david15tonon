@@ -8,24 +8,24 @@
 </p>
 
 <h3 align="center">👨‍💻 About Me</h3>
-
-```python
-class DavidTonon:
-    def __init__(self):
-        self.name = "David Tonon"
-        self.role = "AI & Computer Science Student"
-        self.education = "Training and Research Institute in Computer Science (IFRI-UAC)"
-        self.interests = [
-            "Machine Learning",
-            "Linear Algebra",
-            "Data Engineering",
-            "Computer Vision"
-        ]
-        self.contact = "david15tonon@gmail.com"
-        
-    def __str__(self):
-        return f"Passionate developer exploring AI frontiers"
-```
+  
+  ```python
+  class DavidTonon:
+      def __init__(self):
+          self.name = "David Tonon"
+          self.role = "AI & Computer Science Student"
+          self.education = "Training and Research Institute in Computer Science (IFRI-UAC)"
+          self.interests = [
+              "Machine Learning",
+              "Linear Algebra",
+              "Data Engineering",
+              "Computer Vision"
+          ]
+          self.contact = "david15tonon@gmail.com"
+          
+      def __str__(self):
+          return f"Passionate developer exploring AI frontiers"
+  ```
 
 ## 🛠️ Languages & Tools
 
