@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=27&duration=4000&pause=1000">
 </p>
@@ -89,4 +89,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=blue&style=flat-square" alt="Profile Views">
 </p>
-```
