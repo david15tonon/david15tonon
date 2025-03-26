@@ -19,7 +19,7 @@
               "Machine Learning",
               "Linear Algebra",
               "Data Engineering",
-              "Computer Vision"
+              "System Architecture "
           ]
           self.contact = "david15tonon@gmail.com"
           
