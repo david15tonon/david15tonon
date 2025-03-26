@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=17&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=22&duration=4000&pause=1000">
 </p>
 
 <p align="center">
@@ -75,7 +75,10 @@
     <img src="https://wakatime.com/badge/user/93e1a882-4d0c-4099-9bf8-0f2e5c52d668.svg" alt="Total time coded" />
   </a>
 </p>
-
+## Dailydev Card
+<p align="center">
+  <a href="https://app.daily.dev/dash15tonon"><img src="https://api.daily.dev/devcards/v2/I7Oy0mpyXs8dOSJPf3bPC.png?type=default&r=qk0" width="356" alt="David15tonon's Dev Card"/></a>
+</p>
 <h3 align="center">🤝 Let's Connect</h3>
 <p align="center">
   <a href="mailto:david15tonon@gmail.com">
