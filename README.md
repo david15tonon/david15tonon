@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=22&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=20&duration=4000&pause=1000">
 </p>
 
 <p align="center">
