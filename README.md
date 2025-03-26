@@ -1,88 +1,92 @@
-<!-- markdownlint-disable MD033 MD041 -->
+```markdown
 <p align="center">
-  <h3 align="center">Welcome to My Profile 👾👾👾</h3>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=27&duration=4000&pause=1000">
 </p>
 
-<img align="center" src="https://github.com/david15tonon/david15tonon/blob/main/profile.jpg" >
-
-* I'm David
-* 🌱 I’m currently learning Artificial Intelligence and Computer Science
-* Interested in Linear Algebra, Machine Learning, and Computer Science domains.
-* 🎓 Student at the Training and Research Institute in Computer Science (IFRI-UAC).
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello World!!;I'm a Python Junior Developer;I'm AI and Computer Science student;👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾;">
+  <img align="center" src="https://github.com/david15tonon/david15tonon/blob/main/profile.jpg" width="300">
 </p>
 
-# Languages & Tools
+<h3 align="center">👨‍💻 About Me</h3>
 
+```python
+class DavidTonon:
+    def __init__(self):
+        self.name = "David Tonon"
+        self.role = "AI & Computer Science Student"
+        self.education = "Training and Research Institute in Computer Science (IFRI-UAC)"
+        self.interests = [
+            "Machine Learning",
+            "Linear Algebra",
+            "Data Engineering",
+            "Computer Vision"
+        ]
+        self.contact = "david15tonon@gmail.com"
+        
+    def __str__(self):
+        return f"Passionate developer exploring AI frontiers"
+```
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Stats
 
-###### *<img src="https://media0.giphy.com/media/SqYhwWASzIrjjq07u8/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp" height="30" ></img> My Favorite Languages:*
+<div align="center">
+  
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&theme=radical&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact&theme=radical&hide_border=true" /> |
+  | ------------- | ------------- |
 
-<code><img height="50" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" title="Python" alt="Python"></code>
-<code><img height="50" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"></code>
-<code><img height="50" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"></code>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=david15tonon&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&area=true)
+  
+</div>
 
-###### *Frameworks and Tools:*
-<code><img height="50" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" title="ReactJS" alt="ReactJS"></code>
-<code><img height="50" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"></code>
-<code><img height="50" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"></code>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-<code><img height="50" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"></code>
-
-
-###### *Here is my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img> *
-
-|       |      |
-|  ---        |       --- |
-| <img align="left" alt="N Github Stats" src="https://github-readme-stats.vercel.app/api?username=david15tonon&show_icons=true&hide_border=true&count_private=true" />      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david15tonon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   |
-
-
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=david15tonon&theme=dark)](https://git.io/streak-stats)
----
-<h3 align="center">🏆 GitHub Trophies</h3>
+## 🏆 GitHub Trophies
 <p align="center">
-    <a href="https://github-profile-trophy.vercel.app/?username=david15tonon" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
-###### <h2 align="center">💻 GitHub Contributions</h2>
+## 📈 WakaTime Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
+  <a href="https://wakatime.com/@93e1a882-4d0c-4099-9bf8-0f2e5c52d668">
+    <img src="https://wakatime.com/badge/user/93e1a882-4d0c-4099-9bf8-0f2e5c52d668.svg" alt="Total time coded" />
+  </a>
+</p>
+
+<h3 align="center">🤝 Let's Connect</h3>
+<p align="center">
+  <a href="mailto:david15tonon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/david15tonon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=david15tonon&color=red&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=david15tonon&color=blue&style=flat-square" alt="Profile Views">
 </p>
-<h3 align="center">👾 Wakatime </h3>
-<p align="center"><a href="https://wakatime.com/@93e1a882-4d0c-4099-9bf8-0f2e5c52d668"><img src="https://wakatime.com/badge/user/93e1a882-4d0c-4099-9bf8-0f2e5c52d668.svg" alt="Total time coded since Mars 2025" /></a>
-</p>
-
- 👯 I’m looking to collaborate on Data Analysis and Data Engineering Projects - Contact me at:
- 
- **david15tonon@gmail.com**
+```
