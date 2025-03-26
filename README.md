@@ -62,11 +62,7 @@
 
 
 ---
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=david15tonon&theme=codeSTACKr&hide_border=true" title="GitHub Streak">
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=david15tonon)](https://git.io/streak-stats)
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=david15tonon&theme=dark)](https://git.io/streak-stats)
 ---
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
