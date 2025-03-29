@@ -94,7 +94,7 @@
   <img src="https://komarev.com/ghpvc/?username=david15tonon&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
-## Contribution Graph
+
 <div align="center">
   
   ![Snake animation](https://github.com/david15tonon/david15tonon/blob/output/ocean.gif)
