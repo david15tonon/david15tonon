@@ -96,6 +96,6 @@
 
 ## Contribution Graph
 <div align="center">
-  ![Snake](https://github.com/david15tonon/david15tonon/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+  !![Snake animation](https://github.com/david15tonon/david15tonon/blob/output/github-contribution-grid-snake.svg)
 </div>
 
