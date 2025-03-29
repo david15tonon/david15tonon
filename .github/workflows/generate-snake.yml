@@ -7,7 +7,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: Platane/snk@master
         with:
           github_user_name: david15tonon  # Votre username
