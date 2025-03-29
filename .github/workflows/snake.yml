@@ -1,8 +1,8 @@
-name: Generate Snake Contribution SVG
+name: Generate Snake Animation
 on:
-  schedule: [{ cron: "0 */12 * * *" }]    # Toutes les 12 heures
-  workflow_dispatch:                      # Déclenchement manuel
-  push: { branches: ["main", "master"] }  # Sur push
+  schedule: [{ cron: "0 */12 * * *" }]    # Runs every 12 hours
+  workflow_dispatch:                      # Manual trigger
+  push: { branches: ["main", "master"] }  # On push
 
 jobs:
   generate:
@@ -10,29 +10,38 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Étape 1 : Générer le SVG
-      - name: Generate Snake SVGs
-        uses: Platane/snk/svg-only@v3
+      # Step 1: Checkout repository
+      - uses: actions/checkout@v4
+      
+      # Step 2: Generate Snake SVG
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
-          github_user_name: "david15tonon"  # À remplacer si besoin
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: "david15tonon"
+          svg_out_path: "snake.svg"  # Simple output path
 
-      # Étape 2 : Pousser vers la branche 'output'
-      - name: Push to output branch
+      # Step 3: Prepare output branch
+      - name: Checkout output branch
         uses: actions/checkout@v4
         with:
-          ref: output  # Cible la branche 'output'
+          ref: output
+          path: output-files
 
-      - name: Commit & Push
+      # Step 4: Copy and push files
+      - name: Commit and Push
         run: |
-          mv github-contribution-grid-snake* . || true
+          # Copy generated file
+          cp snake.svg output-files/github-contribution-grid-snake.svg
+          
+          # Configure git
+          cd output-files
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          
+          # Commit changes
           git add .
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update snake: $(date +'%d/%m/%Y %H:%M')"
+            git commit -m "Update snake animation $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           else
             echo "No changes to commit"
