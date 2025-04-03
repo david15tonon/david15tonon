@@ -94,9 +94,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=david15tonon&color=blue&style=flat-square" alt="Profile Views">
-</p>
+![](https://count.getloli.com/get/@david15tonon.github.readme)
+[MIT](LICENSE)
 
 
 <div align="center">
