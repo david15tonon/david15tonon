@@ -19,7 +19,10 @@
               "Machine Learning",
               "Linear Algebra",
               "Data Engineering",
-              "System Architecture "
+              "System Architecture",
+              "FARM Stack",
+              "Mangas",
+              "Technologie"
           ]
           self.contact = "david15tonon@gmail.com"
           
