@@ -102,15 +102,14 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-<div align="center">
-  <h1> Profiel views</h1>
+<p align="center">
+  <h1 font-size=15px> Profile views</h1>
   
   ![](https://count.getloli.com/get/@david15tonon.github.readme)
   [MIT](LICENSE)
-</div>
+</p>
 
-
-
+ 
 <div align="center">
   
   ![Snake animation](https://github.com/david15tonon/david15tonon/blob/output/ocean.gif)
