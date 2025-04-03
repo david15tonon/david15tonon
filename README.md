@@ -102,11 +102,12 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-<p align="center">
+<p  margin-left="450px" align="center">
   <h1 font-size=15px> Profile views</h1>
   
   ![](https://count.getloli.com/get/@david15tonon.github.readme)
   [MIT](LICENSE)
+  
 </p>
 
  
