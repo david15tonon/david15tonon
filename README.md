@@ -24,7 +24,7 @@
               "Mangas",
               "Technologie"
           ]
-          self.contact = "david15tonon@gmail.com"
+          self.contact = "contact@david-tonon.me"
           
       def __str__(self):
           return f"Passionate developer exploring AI frontiers"
