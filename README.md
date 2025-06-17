@@ -27,7 +27,7 @@
           self.contact = "contact@david-tonon.me"
           
       def __str__(self):
-          return f"Passionate developer exploring AI frontiers"
+          return f"Developer exploring AI frontiers and every stuff"
   ```
 
 ## 🛠️ Languages & Tools
