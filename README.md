@@ -60,21 +60,28 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github,gitlab&perline=8" />
 </div>
+
 ### ☁️ Hosting & Deployment
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vercel,zoho&perline=8" />
 </div>
+
 ### 💻 IDEs & OS
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,windows,fedora&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux" />
+  <img src="https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=flat&logoWidth=40" width="48" height="48" />
 </div>
+
+
 ---
+
 ## 🌱 Currently Learning
 
 - Advanced **Python** for 
 - PWA & performance optimization
+  
 ---
 
 ## 📊 GitHub Stats
