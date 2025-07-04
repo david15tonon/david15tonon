@@ -79,7 +79,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced **Python** for 
+- Advanced *Typescript* 
 - PWA & performance optimization
   
 ---
