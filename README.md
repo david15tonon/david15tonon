@@ -94,12 +94,19 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=david15tonon&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&area=true)
+
+
   
 </div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+<p align ="center">
+  
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=david15tonon&limit=20&theme=dark&combine_all_yearly_contributions=false)
 </p>
  
 <div align="center">
