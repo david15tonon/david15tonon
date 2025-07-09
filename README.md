@@ -100,6 +100,8 @@
 </div>
 
 ## 🏆 GitHub Trophies
+
+<p align="center"> <img src="https://github-trophies.vercel.app/?username=david15tonon&theme=radical&margin-w=30&title=LongTimeUser,NewUser&column=2" /></p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
@@ -121,6 +123,26 @@
 ### 🧑‍💻  LeetCode  
 [![Profil](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Frenet/)  
 ![Statistiques](https://leetcode.card.workers.dev/?username=Frenet&theme=light)  
+
+### 🧠 Kaggle Badges
+
+<p align="center">
+  <a href="https://www.kaggle.com/deograciasdavidtonon">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" width="55" />
+  </a>
+  <a href="https://www.kaggle.com/deograciasdavidtonon">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="55" />
+  </a>
+  <a href="https://www.kaggle.com/deograciasdavidtonon">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" width="55" />
+  </a>
+  <a href="https://www.kaggle.com/deograciasdavidtonon">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fe06d05ebef3630403946b71cbdc11665%2FBadge-42.svg?generation=1727468309615075&alt=media" width="55" />
+  </a>
+  <a href="https://www.kaggle.com/deograciasdavidtonon">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media" width="55" />
+  </a>
+</p>
 
 
 ### 📈 WakaTime Stats
