@@ -93,7 +93,6 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=david15tonon&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=david15tonon&theme=react-dark&hide_border=true&area=true)
 
 
   
