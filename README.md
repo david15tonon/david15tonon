@@ -106,9 +106,7 @@
 </p>
 <p align ="center">
   
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=david15tonon&limit=20&theme=dark&combine_all_yearly_contributions=false)
-</p>
+ 
  
 <div align="center">
   
