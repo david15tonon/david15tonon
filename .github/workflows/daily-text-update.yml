@@ -1,0 +1,43 @@
+name: Intensive Daily Commits
+
+on:
+  schedule:
+    # Exécution toutes les 15 minutes pour plus de commits
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mass-commits:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Configure Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@users.noreply.github.com"
+        
+    - name: Generate content and commit
+      run: |
+        TIMESTAMP=$(date -u +"%Y%m%d_%H%M%S")
+        COMMIT_COUNT=$(( ( $(date +%H) * 60 + $(date +%M) ) / 15 ))
+        
+        echo "Processing commit #$COMMIT_COUNT at $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+        
+        # Mettre à jour le fichier
+        for i in {1..12}; do
+          echo "Entry $i - Batch $COMMIT_COUNT - $TIMESTAMP" >> commit_log.txt
+        done
+        
+        echo "=== End of batch $COMMIT_COUNT ===" >> commit_log.txt
+        echo "" >> commit_log.txt
+        
+        # Commit
+        git add commit_log.txt
+        git commit -m "Auto-commit batch $COMMIT_COUNT/$((24*4)) - $TIMESTAMP" || exit 0
+        git push
