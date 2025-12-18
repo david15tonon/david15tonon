@@ -28180,3 +28180,17 @@ Entry 11 - Batch  - 20251218_094940
 Entry 12 - Batch  - 20251218_094940
 === End of batch  ===
 
+Entry 1 - Batch 41 - 20251218_102209
+Entry 2 - Batch 41 - 20251218_102209
+Entry 3 - Batch 41 - 20251218_102209
+Entry 4 - Batch 41 - 20251218_102209
+Entry 5 - Batch 41 - 20251218_102209
+Entry 6 - Batch 41 - 20251218_102209
+Entry 7 - Batch 41 - 20251218_102209
+Entry 8 - Batch 41 - 20251218_102209
+Entry 9 - Batch 41 - 20251218_102209
+Entry 10 - Batch 41 - 20251218_102209
+Entry 11 - Batch 41 - 20251218_102209
+Entry 12 - Batch 41 - 20251218_102209
+=== End of batch 41 ===
+
