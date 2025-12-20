@@ -1,13 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;AI+%26+Computer+Science+Student;Python+Developer;Passionate+about+Machine+Learning;&center=true&size=20&duration=4000&pause=1000">
-</p>
-
-<p align="center">
-  <img align="center" src="https://github.com/david15tonon/david15tonon/blob/main/profile.jpg" width="300">
-</p>
-
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">👨‍💻 </h3>
   
   ```python
   class DavidTonon:
@@ -27,7 +19,7 @@
           self.contact = "contact@david-tonon.me"
           
       def __str__(self):
-          return f"Developer exploring tech and stuff"
+          return f"AI Engineering Student"
   ```
 
 ## 🛠️ Skills & Tools
@@ -110,7 +102,7 @@
  
 <div align="center">
   
-  ![Snake animation](https://github.com/david15tonon/david15tonon/blob/output/ocean.gif)
+  ![Snake animation]( https://github.com/david15tonon/david15tonon/blob/output/ocean.gif )
   
 </div>
 
@@ -164,8 +156,6 @@
 </p>
 <p align="center">
   
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://mloagwwl.mychariow.com/prd_fosg4t/)
-
 [![A saved stuff]( https://img.shields.io/badge/A_saved-stuff-blue)](https://selfh.st/command-line-corner/) 
 </p>
 
