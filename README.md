@@ -14,6 +14,7 @@
               "System Architecture",
               "FARM Stack",
               "Mangas",
+              "Sport",
               "Technologie"
           ]
           self.contact = "contact@david-tonon.me"
