@@ -48259,3 +48259,17 @@ Entry 11 - Batch  - 20260116_094838
 Entry 12 - Batch  - 20260116_094838
 === End of batch  ===
 
+Entry 1 - Batch 41 - 20260116_102254
+Entry 2 - Batch 41 - 20260116_102254
+Entry 3 - Batch 41 - 20260116_102254
+Entry 4 - Batch 41 - 20260116_102254
+Entry 5 - Batch 41 - 20260116_102254
+Entry 6 - Batch 41 - 20260116_102254
+Entry 7 - Batch 41 - 20260116_102254
+Entry 8 - Batch 41 - 20260116_102254
+Entry 9 - Batch 41 - 20260116_102254
+Entry 10 - Batch 41 - 20260116_102254
+Entry 11 - Batch 41 - 20260116_102254
+Entry 12 - Batch 41 - 20260116_102254
+=== End of batch 41 ===
+
