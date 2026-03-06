@@ -72,7 +72,8 @@
 
 ## 🌱 Currently Learning
 
-- Advanced *Typescript* 
+- Advanced *Typescript*
+- GSAP
 - PWA & performance optimization
   
 ---
