@@ -1,6 +1,6 @@
 
 <h3 align="center">👨‍💻 </h3>
-  
+```python
  class DavidTonon:
     def __init__(self):
         self.name = "David Tonon"
@@ -51,6 +51,7 @@ and design scalable backend systems that don't break.
 Building a high-velocity agentic workforce to automate client acquisition
 while staying focused on what matters: delivering real systems.
         """
+           ```
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
