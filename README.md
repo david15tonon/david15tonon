@@ -1,7 +1,10 @@
 
 <h3 align="center">👨‍💻 </h3>
-```python
- class DavidTonon:
+
+```python 
+
+ class DavidTonon: 
+ 
     def __init__(self):
         self.name = "David Tonon"
         self.role = "AI Engineer & Product Builder"
@@ -41,17 +44,14 @@
         return f"{self.role} — {self.focus}"
     
     def pitch(self):
-        return """
-I help startups build MVPs fast, integrate AI into their products,
-and design scalable backend systems that don't break.
+        return """I help startups build MVPs fast, integrate AI into their products,and design scalable backend systems that don't break.
         """
     
     def current_mission(self):
-        return """
-Building a high-velocity agentic workforce to automate client acquisition
-while staying focused on what matters: delivering real systems.
+        return """Building a high-velocity agentic workforce to automate client acquisitionwhile staying focused on what matters: delivering real systems.
         """
-           ```
+ ```
+
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
