@@ -1,28 +1,56 @@
 
 <h3 align="center">👨‍💻 </h3>
   
-  ```python
-  class DavidTonon:
-      def __init__(self):
-          self.name = "David Tonon"
-          self.role = "AI & Computer Science Student"
-          self.education = "Training and Research Institute in Computer Science (IFRI-UAC)"
-          self.interests = [
-              "Machine Learning",
-              "Linear Algebra",
-              "Data Engineering",
-              "System Architecture",
-              "FARM Stack",
-              "Mangas",
-              "Sport",
-              "Technologie"
-          ]
-          self.contact = "contact@david-tonon.me"
-          
-      def __str__(self):
-          return f"AI Engineering Student"
-  ```
-
+ class DavidTonon:
+    def __init__(self):
+        self.name = "David Tonon"
+        self.role = "AI Engineer & Product Builder"
+        self.focus = "Building scalable systems and AI-powered products for startups"
+        self.location = "Benin"
+        self.education = "Training and Research Institute in Computer Science (IFRI-UAC)"
+        
+        self.skills = {
+            "ai_ml": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+            "backend": ["FastAPI", "Node.js", "System Architecture", "API Design"],
+            "frontend": ["React", "Next.js", "TypeScript"],
+            "infra": ["Docker", "Supabase", "MongoDB", "PostgreSQL"]
+        }
+        
+        self.builds = [
+            "Breakin Direct — Proof-of-work hiring platform (Top 10 Lablab AI Hackathon 2025)",
+            "Multichat — Real-time multilingual communication system",
+            "FaceID System — Real-time identity verification",
+            "KEDYS Agency — Digital product agency"
+        ]
+        
+        self.interests = [
+            "AI Systems",
+            "Scalable Architecture",
+            "Startup Engineering",
+            "Building in Public",
+            "Mangas",
+            "Sport",
+            "Technology & Impact in Africa"
+        ]
+        
+        self.contact = "david15tonon@gmail.com | contact@david-tonon.me"
+        self.github = "https://github.com/david15tonon"
+        self.linkedin = "[https://linkedin.com/in/david-tonon](https://www.linkedin.com/in/david-tonon-1ab4521b6/)"
+        
+    def __str__(self):
+        return f"{self.role} — {self.focus}"
+    
+    def pitch(self):
+        return """
+I help startups build MVPs fast, integrate AI into their products,
+and design scalable backend systems that don't break.
+        """
+    
+    def current_mission(self):
+        return """
+Building a high-velocity agentic workforce to automate client acquisition
+while staying focused on what matters: delivering real systems.
+        """
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
