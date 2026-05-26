@@ -4,50 +4,32 @@
 
 
 
-## 🛠️ Skills & Tools
+---
 
-### Programming Languages
+### Tech Stack
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,python,c,php,cpp,js,ts&perline=8" />
+<div align="center">
+
+**AI & ML** &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-4285F4?style=flat-square&logo=claude&logoColor=white)
+
+**Full-Stack** &nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & Infra** &nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 </div>
-
-
-### Web Development
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,django,fastapi,tailwind,bootstrap,nodejs,pandas,matplotlib&perline=8" />
-</div>
-
-### Databases<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&perline=8" />
-</div>
-
-### 🛠 Tools & DevOps
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,anaconda,pandaseslint&perline=8" />
-</div>
-
-### 🧩 Others
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github,gitlab&perline=8" />
-</div>
-
-### ☁️ Hosting & Deployment
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,replit&perline=8" />
-</div>
-
-### 💻 IDEs & OS
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux" />
-  <img src="https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=flat&logoWidth=40" width="48" height="48" />
-</div>
-
 
 ---
 
@@ -73,16 +55,6 @@
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-trophies.vercel.app/?username=david15tonon&theme=radical&margin-w=30&title=LongTimeUser,NewUser&column=2" /></p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=david15tonon&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-<p align ="center">
-  
- 
- 
 <div align="center">
   
   ![Snake animation]( https://github.com/david15tonon/david15tonon/blob/output/ocean.gif )
